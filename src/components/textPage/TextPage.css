@@ -1,0 +1,12 @@
+.text-page {
+  padding: 16px;
+  column-count: 2;
+  column-gap: 5em;
+  column-rule: 1px solid black;
+}
+
+.text-item {
+  margin-bottom: 10px;
+  text-indent: 20px;
+  page-break-inside: avoid;
+}
